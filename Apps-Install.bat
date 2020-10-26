@@ -4,6 +4,7 @@ choco install keepassxc ^
     7zip ^
     audacity ^
     audacity-lame ^
+    blender
     bzeditor ^
     cpu-z ^
     cygwin ^
@@ -28,7 +29,6 @@ choco install keepassxc ^
     owncloud-client ^
     pandoc ^
     powertoys ^
-    powertoys ^
     procmon ^
     qbittorrent ^
     rufus ^
@@ -38,8 +38,9 @@ choco install keepassxc ^
     sublimetext3 ^
     vcxsrv ^
     virtualbox ^
+    visualstudio2019community
     vscode ^
     wget ^
     winscp ^
     wireshark ^
-    youtube-dl
+    youtube-dl 
