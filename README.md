@@ -50,4 +50,4 @@ Set up a Windows environment with Chocolatey
 * wget 
 * winscp 
 * wireshark 
-* youtube-dl"
+* youtube-dl
