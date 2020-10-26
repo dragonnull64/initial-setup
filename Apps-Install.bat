@@ -1,4 +1,4 @@
-choco install firefox-nightly --pre
+choco install firefox-nightly --pre --params "l=en-US"
 
 choco install keepassxc ^
     7zip ^
