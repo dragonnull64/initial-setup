@@ -1,4 +1,3 @@
-choco install -y firefox-nightly --pre --params "l=en-US" & ^
 choco install -y ^
     7zip ^
     audacity ^
@@ -22,6 +21,7 @@ choco install -y ^
     hwinfo ^
     hwmonitor ^
     keepassxc ^
+    lavfilters ^
     microsoft-windows-terminal ^
     mpc-hc ^
     obs-studio ^
@@ -37,12 +37,15 @@ choco install -y ^
     steam ^
     sublimetext3 ^
     thunderbird ^
+    twitch ^
     vcxsrv ^
     virtualbox ^
-    visualstudio2019community
+    visualstudio2019community ^
     vscode ^
     wget ^
+    winaero-tweaker ^
     winscp ^
     wireshark ^
     wsl2 ^
+    wsltty^
     youtube-dl"
