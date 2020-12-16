@@ -15,6 +15,7 @@ choco install -y ^
     flac ^
     foobar2000 ^
     gimp ^
+    git ^
     googlechrome ^
     googledrive ^
     gpu-z ^
