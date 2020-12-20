@@ -1,4 +1,5 @@
 choco install -y ^
+	7zip ^
 	adb ^
 	arduino ^
 	audacity ^
@@ -12,7 +13,6 @@ choco install -y ^
 	deepl ^
 	discord ^
 	ds4windows ^
-	epicgameslauncher ^
 	epicgameslauncher ^
 	everything ^
 	ffmpeg ^
@@ -30,7 +30,7 @@ choco install -y ^
 	gpu-z ^
 	hwinfo ^
 	hwmonitor ^
-	imgBurn ^
+	imgburn ^
 	inkscape ^
 	intellijiidea-community ^
 	itunes ^
@@ -56,7 +56,6 @@ choco install -y ^
 	spotify ^
 	steam ^
 	unity-hub ^
-	vcxsrv ^
 	via ^
 	vim ^
 	visualstudio2019community ^
@@ -68,5 +67,4 @@ choco install -y ^
 	wsltty ^
 	youtube-dl ^
 	zadig ^
-	zip ^
 	zoom"
