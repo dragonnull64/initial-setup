@@ -6,45 +6,45 @@ Set up a Windows environment with Chocolatey
 2. Run `Apps-Install.bat`
 
 ## Package List
+* 7-Zip
 * Android Debug Bridge
 * Arduino IDE
 * Audacity
-* LAME for Audacity
 * AutoHotKey
-* Blender
 * Binary Editor BZ
+* Blender
 * CPU-Z
-* cURL
 * Cygwin
+* DS4Windows
 * DeepL
 * Discord
-* DS4Windows
 * Epic Games Launcher
 * Everything
 * FFmpeg
-* Mozilla Firefox
 * FLAC
-* foobar2000
-* Githib CLI
 * GIMP
+* GNU Wget
+* GNU make
+* GPU-Z
 * Git
+* Githib CLI
 * Go Programming Language
 * Google Backup and Sync
 * Google Chrome
 * Google Drive
 * Google Earth Pro
-* GPU-Z
-* HWiNFO
 * HWMonitor
+* HWiNFO
 * ImgBurn
 * Inkscape
 * JetBrains IntelliJ IDEA (Community Edition)
 * KeePassXC
 * KiCad
 * Kindle for PC
+* LAME for Audacity
 * LAV Filters
-* GNU make
 * MPC-HC
+* Mozilla Firefox
 * OBS Studio
 * OpenJDK 8 JRE
 * Origin
@@ -64,11 +64,12 @@ Set up a Windows environment with Chocolatey
 * Vim
 * Visual Studio 2019 Community
 * Visual Studio Code
-* GNU Wget
-* Winaero Tweaker
 * WinSCP
+* Winaero Tweaker
 * Windows Subsystem for Linux 2
-* wsltty
-* youtube-dl
 * Zadig
 * Zoom Client for Meetings
+* cURL
+* foobar2000
+* wsltty
+* youtube-dl
